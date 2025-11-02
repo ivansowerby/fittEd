@@ -1,0 +1,9 @@
+env
+.idea/
+.pwd
+.utils/
+/data.csv
+/random_numeric_data.csv
+fig
+/run.ps1
+/run.sh

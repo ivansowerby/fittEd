@@ -1,0 +1,23 @@
+{
+    "preprocessing": [
+        {
+            "name": "Test",
+            "args": {}
+        },
+        {
+            "name": "PolynomialFeatures",
+            "args": {
+                "degree": 2,
+                "include_bias": false
+            }
+        },
+        {
+            "name": "StandardScaler",
+            "args": {}
+        }
+    ],
+    "model": {
+        "name": "LinearRegression",
+        "args": {}
+    }
+}
